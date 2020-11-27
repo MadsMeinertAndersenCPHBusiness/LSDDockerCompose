@@ -1,8 +1,7 @@
 version: '3'
 services:
   appserver:
-    build:
-      context: ./my_app
+    build: .
     image: madsimo/team-a-frontend
     ports:
       - "8080:8080"
@@ -10,7 +9,8 @@ services:
 
 
   appclient:
-    build:
-      context: ./my_client
+    build: .
     image: madsimo/team-a-backend
+    ports:
+      - "8090:8090"
     network_mode: "host"
