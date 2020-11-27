@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@MadsMeinertAndersenCPHBusiness 
-BenjaminHojgaard
-/
-Spring_CI_CD
-1
-0
-0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Spring_CI_CD/task-definition2.json
-@MadsMeinertAndersenCPHBusiness
-MadsMeinertAndersenCPHBusiness Create task-definition2.json
-Latest commit 50fcca6 19 days ago
- History
- 1 contributor
-85 lines (85 sloc)  2.03 KB
-  
 {
   "ipcMode": null,
   "executionRoleArn": null,
@@ -114,15 +83,3 @@ Latest commit 50fcca6 19 days ago
   "proxyConfiguration": null,
   "volumes": []
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
